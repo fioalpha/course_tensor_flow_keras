@@ -4,6 +4,6 @@ streamlit
 pillow
 gdown
 plotly
-
+tensorflow
 altair<5
 standard-imghdr
