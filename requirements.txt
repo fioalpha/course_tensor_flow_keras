@@ -1,4 +1,4 @@
-numpay
+probabilidadesnumpy
 pandas
 streamlit
 pillow
