@@ -6,3 +6,4 @@ gdown
 plotly
 tensorflow-intel
 altair<5
+standard-imghdr
